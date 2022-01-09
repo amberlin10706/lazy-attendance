@@ -1,6 +1,6 @@
 {
   "name": "lazy-attendance",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "cli.js",
   "type": "module",
@@ -12,9 +12,7 @@
   "bin": {
     "nd-lazy": "cli.js"
   },
-  "keywords": [
-    "cli"
-  ],
+  "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
